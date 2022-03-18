@@ -861,31 +861,7 @@ h4{
            padding: 0.4em 1em 0.4em 1em;
            font-family:'Raleway',sans-serif;
        }
-       .background_text1:hover{
-           font-family:'Raleway',sans-serif;
-           color:#E74C3C;
-           transition: 1s;
-           font-size: 2.5em;
-           font-weight: 505;
-           z-index: 50;
-   
-           
-           font-size: 48px;
-           background: -webkit-linear-gradient(#eee, rgb(12, 221, 186));
-           -webkit-background-clip: text;
-           -webkit-text-fill-color: transparent;
-   
-            
-           display: block;
-           position: absolute;
-           margin-left: 510px;
-           margin-top: 360px; 
-   
-           padding: 0.4em 1em 0.4em 1em;
-       
-       }
-   
-       .background_text2{
+             .background_text2{
            
            font-size: 3.5em;
            font-weight:700;
@@ -911,32 +887,7 @@ h4{
            padding: 0.4em 1em 0.4em 1em;
            font-family:'Raleway',sans-serif;
        }
-       .background_text2:hover{
-           font-family:'Raleway',sans-serif;
-       
-           transition: 1s;
-           font-size: 3.5em;
-           font-weight: 600;
-           padding: 0.4em 1em 0.4em 1em;
-           z-index: 50;
-   
-           /* font-size: 72px; */
-           /* background: -webkit-linear-gradient(#eee, rgb(45, 248, 214)); */
-           /* -webkit-background-clip: text;
-           -webkit-text-fill-color: transparent; */ 
-   
-    
-           background-color: #239cd469;
-           border-radius:50px ;
-           
-            
-           display: block;
-           position: absolute;
-           margin-left: 470px;
-           margin-top: 410px; 
-       
-       }
-    
+      
        
         .background_text3{
            color:rgb(7 226 255);
@@ -1009,24 +960,7 @@ h4{
            padding: 0.4em 1em 0.4em 1em;
            font-family:'Raleway',sans-serif;
        }
-       .background_text4:hover{
-           font-family:'Raleway',sans-serif;
-           color:#d17c27fb;
-           transition: 1s;
-           font-size: 2.8em;
-           font-weight: 400;
-           padding: 0.4em 1em 0.4em 1em;
-           z-index: 50;
-   
-            
-           display: block;
-           position: absolute;
-           margin-left: 210px;
-           margin-top: 650px; 
-       
-       }
-   
-   
+      
    
    
    /*======== Seccion About========*/
