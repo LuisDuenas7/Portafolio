@@ -2277,22 +2277,6 @@ h4{
            padding: 0.4em 1em 0.4em 1em;
            font-family:'Raleway',sans-serif;
        }
-       .background_text4:hover{
-           font-family:'Raleway',sans-serif;
-           color:#d17c27fb;
-           transition: 1s;
-           font-size: 2.8em;
-           font-weight: 400;
-           padding: 0.4em 1em 0.4em 1em;
-           z-index: 50;
-   
-            
-           display: block;
-           position: absolute;
-           margin-left: 210px;
-           margin-top: 650px; 
-       
-       }
    
    
    
